@@ -1,0 +1,17 @@
+
+.collapse {
+	border-collapse: collapse;
+	font-family: monospace;
+}
+
+body {
+	height: 2000px;
+}
+
+#surface {
+	position: absolute;
+}
+
+#surface td {
+	transition: left 3s, top 3s, transform 3s;
+}
