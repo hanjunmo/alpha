@@ -5,11 +5,6 @@
 소스파일링크입니다
 
 
-# file:///C:/web/Private%20Security%20International.html/Private%20Security%20International.index.html
-
-# file:///C:/web/coffee.html/coffee.index.html
-
-# file:///C:/web/web%20agency.html/agency.index.html
 
 # 프로젝트 소개 및 수행기간
 
