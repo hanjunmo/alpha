@@ -6,15 +6,9 @@
 
 # 1. https://github.com/hanjunmo/alpha/blob/main/Private%20Security%20International.index.html
 
-# 1-1 file:///C:/web/Private%20Security%20International.html/Private%20Security%20International.index.html
-
 # 2. https://github.com/hanjunmo/alpha/blob/main/coffee.index.html
 
-# 2-1. file:///C:/web/coffee.html/coffee.index.html
-
 # 3. https://github.com/hanjunmo/alpha/blob/main/agency.index.html
-
-# 3-1 file:///C:/web/web%20agency.html/agency.index.html
 
 # 프로젝트 소개 및 수행기간
 
