@@ -1,17 +1,6 @@
 # 안녕하세요 IT 웹개발자 신입 한준모입니다
 
 프로그래밍언어를 공부하며 정리한 내용을 프로젝트에 정리해두었습니다
-자세한 내용을 PPT에 담아 업로드 해두었습니다
-
-같은 내용을 PDF파일로도 업데이트 해두었습니다
-
-소스파일 링크: https://github.com/hanjunmo/alpha/blob/main/helloalpha%20project.pdf
-
-#  1. https://github.com/hanjunmo/alpha/blob/main/Private%20Security%20International.index.html
-
-# 2. https://github.com/hanjunmo/alpha/blob/main/coffee.index.html
-
-# 3. https://github.com/hanjunmo/alpha/blob/main/agency.index.html
 
 # 프로젝트 소개 및 수행기간
 
